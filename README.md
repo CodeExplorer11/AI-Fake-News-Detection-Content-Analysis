@@ -30,7 +30,8 @@ An AI-powered misinformation detection and content analysis system built using N
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/CodeExplorer11/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/CodeExplorer11/AI-Fake-News-Detection-Content-Analysis.git
+cd AI-Fake-News-Detection-Content-Analysis
 pip install -r requirements.txt
 python app.py
+```
