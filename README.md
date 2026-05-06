@@ -7,7 +7,7 @@ An AI-powered misinformation detection and content analysis system built using N
 ## ✨ Features
 
 - 🧠 Fake news detection using BERT
-- ✍️ AI-based news text generation using GPT-2
+- ✍️ Synthetic news text generation for research and educational purposes using GPT-2
 - 📊 Confidence score prediction
 - 🖥️ Interactive Gradio user interface
 - 📄 Downloadable analysis reports
